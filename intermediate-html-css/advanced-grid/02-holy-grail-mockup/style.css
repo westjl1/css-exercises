@@ -129,6 +129,7 @@ html {
   grid-row: 2 / 4;
   display: grid;
   gap: 25px;
+  min-width: 320px;
   /* opacity: 0; */
 }
 
